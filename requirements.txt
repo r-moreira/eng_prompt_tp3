@@ -1,0 +1,14 @@
+pandas
+google-generativeai
+openai
+ipywidgets
+python-dotenv
+jupyter
+scrapy
+playwright
+tqdm
+beautifulsoup4
+matplotlib
+tiktoken
+streamlit
+plotly
